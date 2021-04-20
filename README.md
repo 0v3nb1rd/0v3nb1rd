@@ -14,14 +14,13 @@
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="50" height="50"/>
 
 
-
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSC" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/jetbrains-1.svg" alt="jetbrains" width="50" height="50"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VueJS" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" alt="npm" width="50" height="50"/>
 
-
-https://worldvectorlogo.com/logo/gatsby
 ---
 
 <!--
