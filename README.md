@@ -2,22 +2,26 @@
 
 ---
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="ReactJS" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/gulp.svg" alt="GulpJS" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/materialize-3.svg" alt="Materialize" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/gulp.svg" alt="GulpJS" width="50" height="50"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="ReactJS" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="NEXTJS" width="50" height="50"/>
 
 <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="MaterialUI" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="50" height="50"/>
+
 
 
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSC" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/jetbrains-1.svg" alt="jetbrains" width="50" height="50"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
 
 
+https://worldvectorlogo.com/logo/gatsby
 ---
 
 <!--
